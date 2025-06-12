@@ -1,0 +1,7 @@
+../Core/Src/midi.c:26:6:midiInit	4	static
+../Core/Src/midi.c:32:6:midiAddMsg	24	static
+../Core/Src/midi.c:50:6:MidiSend	8	static
+../Core/Src/midi.c:63:6:MidiNoteOff	24	static
+../Core/Src/midi.c:75:6:MidiNoteOn	24	static
+../Core/Src/midi.c:87:6:MidiNoteSus	24	static
+../Core/Src/midi.c:100:6:MidiCC	24	static

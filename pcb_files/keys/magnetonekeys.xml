@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Joshua\Documents\KiCad\myProjects\magnetonekeys\magnetonekeys\magnetonekeys.kicad_sch</source>
+    <date>31/07/2023 18:05:13</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>magnetonekeys.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C0">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>527c40be-1d87-4097-a6de-00c960daf983</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f824891-e5cb-48d6-bd64-46d2dd8eebfd</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77d84a33-0d8f-4eb0-9d75-17ed9bdeffe3</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d73ce2d0-416e-4577-943b-d2a6db6a88a0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8741226-df37-4c6d-bcb9-89e4c94cf327</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a47014e7-ce05-403f-97be-f2d3a0819a5e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9925065-d145-4aa0-a258-5a4bed8e3ca6</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2db0d5e2-5926-48aa-af8f-248bbb436107</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2ee0a33-83d9-48ba-86d4-c4a792205e4a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b45281b-d28f-4358-abce-b9ec0be2a39e</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b3812ec-d1d8-495b-b024-3d6ae0dd7c17</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a0f9307-47db-48dd-a24c-acbf3df9030a</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61ade632-b17c-4f58-ac04-6d10ae62ea3c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c119da8c-99af-462d-9d44-b735711a8c4f</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c05bba75-df1f-4d66-9ba7-b0f55186352b</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nF </value>
+      <footprint>Keebio-Parts2:C_0603</footprint>
+      <fields>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <libsource lib="Device" part="100nF " description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C4944895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3c92b12-74df-4f5e-bdc2-3d09c7a43784</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x09</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C388746</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x09" description="Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C388746"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b59ac6e1-e99b-4303-a856-d532e173a005</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x09</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C388746</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x09" description="Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C388746"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf304ba7-69ff-43db-97c3-a412da398466</tstamps>
+    </comp>
+    <comp ref="U0">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bc9dca2-0628-40b6-bb40-acf497e116a6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a450b53-b970-4468-8ff3-392bb20c3ffe</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18457f28-4aea-4bca-b7ac-bfe1b31defcd</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dcc5ae1-7abb-4a24-809e-04fcb3d45cc8</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc33c9cf-af7a-41fe-a6b9-696757d29e01</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33cc63c2-eb31-4660-a877-c48a3109318d</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>458cdaaf-14d6-488d-aa1e-e0bf132fccc5</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5219512-7618-417e-98ce-23c41b4f2a45</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8fac0d8-1e18-4821-8fea-2e279259f411</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7d6c667-f576-4ef9-b02d-cd65e1b37b61</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41ae7e79-a458-455a-9027-472aec646c23</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67de7de2-18d1-467b-815f-06aa6a1af104</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e61e9aaf-1cc1-420f-894e-58255cbe78bc</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6887b37-fb59-4676-97a1-671d74492daf</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a69a51d9-3d8f-47a5-9a0c-2c58540fe4e0</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>SS39ET</value>
+      <footprint>projLib:SOT95P247X115-3N</footprint>
+      <datasheet>https://sensing.honeywell.com/index.php?ci_id=50359</datasheet>
+      <fields>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <libsource lib="projSymLib" part="SS39ET" description="SS49E"/>
+      <property name="LCSC" value="C126669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonekeys.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14b1e19f-9d83-41cc-86eb-59ac65576b2e</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x09">
+      <description>Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x09</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="100nF ">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">100nF </field>
+        <field name="Footprint">Keebio-Parts2:C_0603</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C4944895</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="projSymLib" part="SS39ET">
+      <description>SS49E</description>
+      <docs>https://sensing.honeywell.com/index.php?ci_id=50359</docs>
+      <fields>
+        <field name="Reference">U0</field>
+        <field name="Value">SS39ET</field>
+        <field name="Footprint">SOT-23-3L</field>
+        <field name="Datasheet">https://sensing.honeywell.com/index.php?ci_id=50359</field>
+        <field name="LCSC">C126669</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VS+" type="power_in"/>
+        <pin num="2" name="OUTPUT" type="passive"/>
+        <pin num="3" name="VS-" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="projSymLib" part="magKey_SK6812MINI-E">
+      <fields>
+        <field name="Reference">mG?</field>
+        <field name="Value">magKey_SK6812MINI-E</field>
+        <field name="Footprint">projLib:magKey_SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="5v" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>D:\kiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\kiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="projSymLib">
+      <uri>C:\Users\Joshua\Documents\KiCad\myProjects\magnetonekeys\magnetonekeys/projSymLib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="U0" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U1" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U10" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U12" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U13" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U14" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U15" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U16" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U17" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="VS+" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VS+" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C0" pin="1" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="A0">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U0" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="4" name="A1">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="5" name="A2">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="6" name="A3">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="7" name="A4">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="8" name="A5">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="9" name="A6">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="10" name="A7">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="11" name="A10">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="12" name="A11">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="13" name="A12">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="14" name="A13">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="15" name="A14">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U14" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="16" name="A15">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="17" name="A16">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U16" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="18" name="A17">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U17" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="19" name="GND">
+      <node ref="C0" pin="2" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U0" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U10" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U11" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U12" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U13" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U14" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U15" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U16" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U17" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="VS-" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="VS-" pintype="power_in"/>
+    </net>
+  </nets>
+</export>

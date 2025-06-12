@@ -1,0 +1,7 @@
+../Core/Src/midi.c:26:6:midiInit	1
+../Core/Src/midi.c:32:6:midiAddMsg	3
+../Core/Src/midi.c:50:6:MidiSend	2
+../Core/Src/midi.c:63:6:MidiNoteOff	1
+../Core/Src/midi.c:75:6:MidiNoteOn	1
+../Core/Src/midi.c:87:6:MidiNoteSus	1
+../Core/Src/midi.c:100:6:MidiCC	1

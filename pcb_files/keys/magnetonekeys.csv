@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+"100nF ","C0,C1,C2,C3,C4,C5,C6,C7,C10,C11,C12,C13,C14,C15,C16,C17","Keebio-Parts2:C_0603","C4944895"
+"Conn_01x09","J2,J3","Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Horizontal","C388746"
+"SS39ET","U0,U1,U2,U3,U4,U5,U6,U7,U10,U11,U12,U13,U14,U15,U16,U17","projLib:SOT95P247X115-3N","C126669"

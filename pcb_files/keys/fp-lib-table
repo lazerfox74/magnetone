@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "projLib")(type "KiCad")(uri "${KIPRJMOD}/projLib.pretty")(options "")(descr ""))
+  (lib (name "honeywell")(type "KiCad")(uri "${KIPRJMOD}/IC_Honeywell_SS49E/eec.pretty")(options "")(descr ""))
+  (lib (name "molex")(type "KiCad")(uri "${KIPRJMOD}/Conn_Molex_50-57-9408/eec.pretty")(options "")(descr ""))
+  (lib (name "prettylib")(type "KiCad")(uri "${KIPRJMOD}/prettylib")(options "")(descr ""))
+  (lib (name "panelization")(type "KiCad")(uri "${KIPRJMOD}/Panelization.pretty-master")(options "")(descr ""))
+)

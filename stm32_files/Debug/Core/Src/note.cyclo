@@ -1,0 +1,14 @@
+../Core/Src/note.c:41:6:noteInit	9
+../Core/Src/note.c:135:6:noteScan	8
+../Core/Src/note.c:214:6:triggerFunction	2
+../Core/Src/note.c:237:6:holdFunction	1
+../Core/Src/note.c:246:6:releaseFunction	2
+../Core/Src/note.c:267:6:octDownTrig	2
+../Core/Src/note.c:289:6:octUpTrig	2
+../Core/Src/note.c:310:6:octDownRel	1
+../Core/Src/note.c:315:6:controlFunction	1
+../Core/Src/note.c:324:6:controlTrig	1
+../Core/Src/note.c:333:6:controlRel	1
+../Core/Src/note.c:343:6:octaveUpdate	11
+../Core/Src/note.c:387:6:selectMuxPin	3
+../Core/Src/note.c:399:7:lerpF	1

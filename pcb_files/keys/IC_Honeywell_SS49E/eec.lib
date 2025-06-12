@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Honeywell SS49E
+#
+DEF SS49E U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN 
+F1 "SS49E" 0 300 50 H V L CNN 
+F2 "Honeywell-SS49E-*" 0 400 50 H I L CNN 
+F3 "https://sensing.honeywell.com/index.php?ci_id=50359" 0 500 50 H I L CNN 
+F4 "No" 0 600 50 H I L CNN "automotive"
+F5 "IC" 0 700 50 H I L CNN "category"
+F6 "Sensors" 0 800 50 H I L CNN "device class L1"
+F7 "Magnetic Sensors" 0 900 50 H I L CNN "device class L2"
+F8 "unset" 0 1000 50 H I L CNN "device class L3"
+F9 "SENSOR LINEAR ANALOG RADIAL" 0 1100 50 H I L CNN "digikey description"
+F10 "480-2006-ND" 0 1200 50 H I L CNN "digikey part number"
+F11 "Yes" 0 1300 50 H I L CNN "lead free"
+F12 "f68291460c896368" 0 1400 50 H I L CNN "library id"
+F13 "Honeywell" 0 1500 50 H I L CNN "manufacturer"
+F14 "6.5V" 0 1600 50 H I L CNN "max supply voltage"
+F15 "2.7V" 0 1700 50 H I L CNN "min supply voltage"
+F16 "Board Mount Hall Effect / Magnetic Sensors Flat TO-92, 3.0Vdc Ratiometric, PCB" 0 1800 50 H I L CNN "mouser description"
+F17 "785-SS49E" 0 1900 50 H I L CNN "mouser part number"
+F18 "6mA" 0 2000 50 H I L CNN "operating supply current"
+F19 "1.5mA" 0 2100 50 H I L CNN "output current"
+F20 "TO92-3" 0 2200 50 H I L CNN "package"
+F21 "Yes" 0 2300 50 H I L CNN "rohs"
+F22 "Hall Effect" 0 2400 50 H I L CNN "sensing method"
+F23 "Analog Voltage" 0 2500 50 H I L CNN "sensor output"
+F24 "+100°C" 0 2600 50 H I L CNN "temperature range high"
+F25 "-40°C" 0 2700 50 H I L CNN "temperature range low"
+DRAW
+X VS+ 1 100 0 100 R 40 40 1 1 W 
+X VS- 2 1400 -200 100 L 40 40 1 1 W 
+X OUTPUT 3 1400 0 100 L 40 40 1 1 P 
+S 200 100 1300 -300 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library

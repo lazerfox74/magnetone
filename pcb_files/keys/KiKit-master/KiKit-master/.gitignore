@@ -1,0 +1,30 @@
+# Ignore python files
+__pycache__
+
+# Ignore dev kicad files
+*.kicad_pro*
+*.kicad_prl*
+*.kicad_pcb*
+*.pro
+fp-info-cache
+
+# Ignore IDEs/editors
+.vscode
+.idea
+
+# Ignore build
+build
+dist
+KiKit.egg-info
+*.eggs
+*.pyc
+
+# Ignore venv
+venv
+
+# Ignore png tab drawings
+doc/resources/tabdrawing*.png
+
+# MkDocs
+site
+

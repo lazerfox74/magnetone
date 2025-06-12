@@ -1,0 +1,14 @@
+../Core/Src/note.c:41:6:noteInit	16	static
+../Core/Src/note.c:135:6:noteScan	24	static
+../Core/Src/note.c:214:6:triggerFunction	24	static
+../Core/Src/note.c:237:6:holdFunction	16	static
+../Core/Src/note.c:246:6:releaseFunction	16	static
+../Core/Src/note.c:267:6:octDownTrig	16	static
+../Core/Src/note.c:289:6:octUpTrig	16	static
+../Core/Src/note.c:310:6:octDownRel	16	static
+../Core/Src/note.c:315:6:controlFunction	24	static
+../Core/Src/note.c:324:6:controlTrig	32	static
+../Core/Src/note.c:333:6:controlRel	16	static
+../Core/Src/note.c:343:6:octaveUpdate	16	static
+../Core/Src/note.c:387:6:selectMuxPin	24	static
+../Core/Src/note.c:399:7:lerpF	24	static

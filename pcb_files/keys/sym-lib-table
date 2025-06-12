@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "projSymLib")(type "KiCad")(uri "${KIPRJMOD}/projSymLib.kicad_sym")(options "")(descr ""))
+  (lib (name "SS49E")(type "Legacy")(uri "${KIPRJMOD}/IC_Honeywell_SS49E/eec.lib")(options "")(descr ""))
+  (lib (name "molex")(type "Legacy")(uri "${KIPRJMOD}/Conn_Molex_50-57-9408/eec.lib")(options "")(descr ""))
+)
